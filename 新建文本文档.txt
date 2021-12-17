@@ -1,3 +1,9 @@
 git remote add superman https://github.com/XyWzzZ/starter-hugo-academic.git
 
 git pull --rebase superman master
+
+git add . 
+
+git commit -m ""
+
+git push -u superman master

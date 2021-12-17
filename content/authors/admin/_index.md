@@ -10,30 +10,30 @@ role: BALABALA
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: balabala University
-  url: https://www.balabala.edu/
+- name: Peking University 
+  url: https://www.pku.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Ethnic Dance 民族舞蹈
+- Bioinformatics 生物信息学
+- Biopharmaceutics 生物制药
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  #- course: PhD in Artificial Intelligence
+   # institution: Stanford University
+  #  year: 2012
+  #- course: MEng in Artificial Intelligence
+ #   institution: Massachusetts Institute of Technology
+  #  year: 2009
+  - course: BSc in Nursing Science 
+    institution: Peking University 
+    year: 2021
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -70,8 +70,12 @@ email: ""
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+十一年的班长、2016年三帆中学第九届艺术节主持人、三年少先队大队长以及作为领操员与团队在美国迪士尼表演“太极扇”等经历使我逐步成长为自信、阳光、坚强、乐观的青少年。
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+北京市三好学生、北京市红领巾奖章、西城区三好学生、西城区十佳少先队员、优秀团干和优秀班干部等荣誉是对我的肯定与鼓励。希望在未来，我能创造更大的辉煌。
+
+而我最看重的是自身的修养和学识,所以我认为读书异常关键,曾被邀请做三帆读书演讲,对此颇有感触。在中小学阶段,完成了中国名著和世界经典作品的阅读。我相信这些对以后的学习与成长大有裨益。
+
+我特别喜欢梁启超先生的：“少年智则国智，少年强则国强”。希望我们这一代青少年能以实现中华民族伟大复兴为己任，点滴积累成就卓越人生。
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
