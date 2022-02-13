@@ -3,7 +3,7 @@
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: experience
 
-active: true
+active: flase
 
 # This file represents a page section.
 headless: true

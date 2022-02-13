@@ -6,7 +6,7 @@ widget: accomplishments
 # This file represents a page section.
 headless: true
 
-active: flase
+active: true  
 
 # Order that this section appears on the page.
 weight: 50
