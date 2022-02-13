@@ -4,9 +4,9 @@
 # Documentation: https://wowchemy.com/docs/getting-started/page-builder/
 widget: blank
 
+active: flase
 # This file represents a page section.
 headless: true
-
 
 # Order that this section appears on the page.
 weight: 50
