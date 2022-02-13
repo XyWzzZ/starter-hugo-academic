@@ -3,13 +3,15 @@
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: experience
 
+active: flase
+
 # This file represents a page section.
 headless: true
 
 # Order that this section appears on the page.
 weight: 40
 
-title: Experience
+title:EDU Experience
 subtitle:
 
 # Date format for experience
