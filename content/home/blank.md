@@ -4,6 +4,7 @@
 # Documentation: https://wowchemy.com/docs/getting-started/page-builder/
 widget: blank
 
+active: flase
 # This file represents a page section.
 headless: true
 title: '特长爱好'
