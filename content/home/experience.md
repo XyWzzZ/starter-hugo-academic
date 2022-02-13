@@ -11,7 +11,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title:EDU Experience
+title: EDU Experience
 subtitle:
 
 # Date format for experience
