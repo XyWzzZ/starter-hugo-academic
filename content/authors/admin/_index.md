@@ -70,10 +70,12 @@ email: ""
 highlight_name: true
 ---
 
-十二年的班长、2016年三帆中学第九届艺术节主持人、三年少先队大队长及作为领操员与团队在美国迪士尼表演“太极扇”等经历使我逐步成长为自信、阳光、坚强、乐观的青少年。
+Hello！I'm Yuchu Hou from Beijing, China. I was born in 2003 and now I'm an 18-year-old girl who studying at Peking University.
 
-北京市三好学生、北京市红领巾奖章、西城区三好学生及十佳少先队员、优秀团干和优秀班干部等荣誉是对我的肯定。希望在未来，我能创造更大的辉煌。
+Since childhood, I've been fascinated by the mysteries of the universe, and now I am especially interested in chemistry and molecular biology. I'm looking forward to study this major abroad and engage in relevant research in the future.
 
-我认为最重要的是自身的修养和学识,所以广泛涉猎很关键,曾被邀请做三帆读书演讲与分享。我特别喜欢梁启超先生的：“少年智则国智，少年强则国强”。希望我们这一代青少年能以实现中华民族伟大复兴为己任，点滴积累成就卓越人生。
+Besides, I'm also keen on art and sports. I've been studying dance for 15 years and participated in dance clubs in high school and college. Apart from that, I'm also good at basketball, volleyball and running and have won many awards in the process of playing for the school teams.
+
+In daily life, I like reading and writing as well as the time when music always accompanies me. As an optimistic, hard-working and sunny girl, I hope I can lead a colorful life and such characters can always be with me in the future.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
