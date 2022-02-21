@@ -13,3 +13,5 @@ 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
 git remote set-url origin  https://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@github.com/XyWzzZ/starter-hugo-academic.git/
 
 git remote add origin https://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@github.com/XyWzzZ/starter-hugo-academic.git/
+
+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
