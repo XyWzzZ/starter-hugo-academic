@@ -15,3 +15,8 @@ git remote set-url origin  https://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@gith
 git remote add origin https://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@github.com/XyWzzZ/starter-hugo-academic.git/
 
 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
+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
+
+git remote add superman git@github.com:XyWzzZ/starter-hugo-academic.git
+
+git stash暂存

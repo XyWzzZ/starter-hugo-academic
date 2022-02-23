@@ -20,7 +20,7 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: finance@ime.ac.cn
+email: yuchuapply@163.com
 #phone: 13717788165
 #address:
 #  street: 450 Serra Mall
@@ -68,7 +68,7 @@ main_menu:
 
 # Localization
 
-date_format: 'Jan 2, 2006'
+date_format: 'Jan 2, 2022'
 time_format: '3:04 PM'
 address_format: en-us
 
@@ -111,7 +111,7 @@ avatar:
   gravatar: false
   shape: circle
 publications:
-  date_format: January 2006
+  date_format: January 2022
   citation_style: apa
 projects:
   post_view: 2
