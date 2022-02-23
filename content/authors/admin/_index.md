@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Hou Yuchu(侯雨初)
+title: Yuchu Hou(侯雨初)
 
 # Is this the primary user of the site?
 superuser: true
@@ -28,11 +28,11 @@ education:
   #- course: PhD in Artificial Intelligence
    # institution: Stanford University
   #  year: 2012
-  #- course: MEng in Artificial Intelligence
- #   institution: Massachusetts Institute of Technology
-  #  year: 2009
-  - course: BSc in Nursing Science 
-    institution: Peking University 
+  - course: Beijing No.4 High School
+    institution: 
+    year: 2018
+  - course:  Peking University  Health Science Center    
+    institution: 
     year: 2021
 
 # Social/Academic Networking
@@ -49,9 +49,9 @@ social:
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://scholar.google.co.uk/
-- icon: github
-  icon_pack: fab
-  link: https://github.com/
+#- icon: github
+#  icon_pack: fab
+ # link: https://github.com/
 #- icon: linkedin
  # icon_pack: fab
   #link: https://www.linkedin.com/
@@ -59,9 +59,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
- #- icon: cv
-  # icon_pack: ai
-   #link: uploads/resume.pdf
+ - icon: cv
+   icon_pack: ai
+   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -70,7 +70,7 @@ email: ""
 highlight_name: true
 ---
 
-Hello！I'm Yuchu Hou from Beijing, China. I was born in 2003 and now I'm an 18-year-old girl who studying at Peking University.
+I come from Beijing, China. I was born in 2003 and now I'm an 18-year-old girl who studying at Peking University.
 
 Since childhood, I've been fascinated by the mysteries of the universe, and now I am especially interested in chemistry and molecular biology. I'm looking forward to study this major abroad and engage in relevant research in the future.
 
