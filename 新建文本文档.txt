@@ -16,6 +16,7 @@ git remote add origin https://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@github.co
 
 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
 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
+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
 
 git remote add superman git@github.com:XyWzzZ/starter-hugo-academic.git
 
