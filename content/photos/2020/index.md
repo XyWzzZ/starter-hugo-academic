@@ -1,15 +1,15 @@
 ---
-title: 这是2020年的照片
-summary: 这里真的是2020年的照片。
+title: With friends! 
+summary: 
 tags:
-- 2020
+- Friends
 date: "2018-04-27T00:00:00Z"
-
+weight: 30
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
 image:
-  caption: 2020年的照片
+  caption: Friends
   focal_point: Smart
 
 ---
@@ -19,3 +19,6 @@ image:
 ![](featured03.jpg)
 ![](featured04.jpg)
 ![](featured05.jpg)
+
+![](featured06.jpg)
+
