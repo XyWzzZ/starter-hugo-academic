@@ -2,14 +2,14 @@
 title:  Photos of myself! 
 summary: 
 tags:
-- 2018
+- myself
 date: "2018-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
 image:
-  caption: 2018年的照片
+  caption: Photos of myself!
   focal_point: Smart
 
 

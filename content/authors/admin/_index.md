@@ -14,7 +14,7 @@ organizations:
   url: https://www.pku.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include balabala.
+bio: My research interests include Chemical,Molecule Biology.
 
 # Interests to show in About widget
 interests:
