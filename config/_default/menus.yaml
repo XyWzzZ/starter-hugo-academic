@@ -10,7 +10,7 @@ main:
   - name: Photos
     url: '#photos'
     weight: 30
-  - name: Specialties
+  - name: Informations
     url: '#accomplishments'
     weight: 40
   - name: Awards
