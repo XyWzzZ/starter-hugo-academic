@@ -45,7 +45,7 @@ social:
   link: '/#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/
+  link: https://twitter.com/MAY_COLmay
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://scholar.google.co.uk/
@@ -72,7 +72,7 @@ highlight_name: true
 
 I come from Beijing, China. I was born in 2003 and now I'm an 18-year-old girl who studying at Peking University.
 
-Since childhood, I've been fascinated by the mysteries of the universe, and now I am especially interested in chemistry and molecular biology. I'm looking forward to study this major abroad and engage in relevant research in the future.
+Since my childhood, I've been fascinated by the mysteries of the universe, and now I am especially interested in chemistry and molecular biology. I'm looking forward to studying this major abroad and engage in relevant research in the future.
 
 Besides, I'm also keen on art and sports. I've been studying dance for 15 years and participated in dance clubs in high school and college. Apart from that, I'm also good at basketball, volleyball and running and have won many awards in the process of playing for the school teams.
 
