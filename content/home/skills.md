@@ -2,7 +2,7 @@
 # An instance of the Featurette widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: featurette
-active: true
+active: flase
 # This file represents a page section.
 headless: true
 
