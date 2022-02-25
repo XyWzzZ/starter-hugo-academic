@@ -25,7 +25,7 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: yuchuapply@163.com
+  email: 2110108311@stu.pku.edu.cn
   #phone: 888 888 88 88
   #address:
   #  street: 450 Serra Mall
