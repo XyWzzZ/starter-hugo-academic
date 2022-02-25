@@ -18,9 +18,9 @@ bio: My research interests include balabala.
 
 # Interests to show in About widget
 interests:
-- Ethnic Dance 民族舞蹈
-- Bioinformatics 生物信息学
-- Biopharmaceutics 生物制药
+- Chemical  
+- Molecule Biology 
+- Chinese Ethnic Dance
 
 # Education to show in About widget
 education:

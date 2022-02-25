@@ -22,14 +22,14 @@ design:
   columns: '2' 
 ---
 
-2018-2019年度北京四中三好学生
+Merit Student All High School Semester, Excellent Student Leader All High School Semester，Outstanding Volunteer 2021
 
-2019-2020年度北京四中三好学生
+Third prize of the 33rd China Chemistry Olympics by China Chemical Societ
 
-2020-2021年连续两年西城区三好学生
+M-c (A) Certificate of the 8th Middle School Mathematics Proficiency Test
 
-2018年12月北京数学会第八届中学数学水平能力测试（高一年级组）M-C（A）证书
+High jump Women’s 2nd Place, 4X100 women's relay 1st Place
 
-2018年9月北京四中第六十一届爱祖国田径运动会跳高高一组第二名；
+Dance Association China Grade 13 Certification
 
-​									4X100女子接力第一名；100米高一女子组第五名
+First class award "Ye Shengtao Cup” National New Composition Competition for Middle School Students
