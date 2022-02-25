@@ -1,6 +1,6 @@
 ---
-title: 这是2018年的照片
-summary: 这里真的是2018年的照片。
+title:  Photos of myself! 
+summary: 
 tags:
 - 2018
 date: "2018-04-27T00:00:00Z"
@@ -20,3 +20,4 @@ image:
 ![](featured03.jpg)
 ![](featured04.jpg)
 ![](featured05.jpg)
+

@@ -30,11 +30,11 @@ design:
   columns: '2' 
 ---
 
-**Peking University**,HealthScienceCenterStudent Union, drama club and hip-hop club       Sep. 2021– Present
+**Peking University**,HealthScienceCenterStudent Union, drama club and hip-hop club									Sep. 2021– Present
 
-**Beijing No. 4 Middle School**, Monitor of Chemistry Competition class								Sept .2018– Jun.2021
+**Beijing No. 4 Middle School**, Monitor of Chemistry Competition class																Sep .2018– Jun.2021
 
-**Sailing Magazine**,Associate editor                                             						  Sep. 2015– July.2018
+**Sailing Magazine**,Associate editor                                             						  														Sep. 2015– July.2018
 
 **Skills:** English and Mandarin (Native), Proficient in MS Office,Python
 
